@@ -1,0 +1,31 @@
+{
+  "books": [
+    {
+      "id": "2",
+      "title": "Padma Nadir Majhi",
+      "author": "Manik Bandopadhyay",
+      "price": 115.5
+    },
+    {
+      "id": "e6a8"
+    },
+    {
+      "id": "ccc2",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 180.99
+    },
+    {
+      "id": "cd0d",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 180.99
+    },
+    {
+      "id": "8c01",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 180.99
+    }
+  ]
+}
